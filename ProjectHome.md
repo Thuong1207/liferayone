@@ -1,0 +1,1 @@
+This project includes all working sample portlets designed to work on Liferay portal server.
